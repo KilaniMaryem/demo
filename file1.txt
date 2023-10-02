@@ -1,2 +1,3 @@
 this is a random test file.
 file 1 edited  after cloning
+file 2 edited after creating branch bug/correction-bug
