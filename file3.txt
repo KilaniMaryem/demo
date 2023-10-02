@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file 3 created after creating branch bug/correction-bug
+=======
+file created after creating bug/correction-bug2
+>>>>>>> bug/correction-bug2

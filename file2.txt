@@ -1,2 +1,4 @@
+
 file 2 added after cloning
 file 2 edited after creating branch bug/correction-bug
+file edited after creating bug/correction-bug2 : manually added
